@@ -1,0 +1,22 @@
+console.log(". ..............Step 1............");
+
+function stringBasics() {
+console.log("My dream company is TCS");
+}
+stringBasics();
+console.log("...............step 2.............");
+var a="Swimming";
+var b="Reading";
+var c="Traveling";
+console.log("My hobbies are ",a,",",b,",",c);
+console.log("............Step 3................");
+var a="Swimming Reading Traveling";
+var total=a.length;
+var a="Swimming";
+var b="Reading";
+var c="Traveling";
+
+console.log("My first hobbies Swimming charactor length is= ",a.length); 
+console.log("My second hobbies Reading charactor length is =",b.length);
+console.log("My third hobbies Traveling charactor length is =",c.length); 
+console.log("Total number of charactor = ",total);
